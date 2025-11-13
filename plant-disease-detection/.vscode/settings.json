@@ -1,0 +1,10 @@
+{
+  "css.lint.unknownAtRules": "ignore",
+  "tailwindCSS.includeLanguages": {
+    "typescript": "css",
+    "typescriptreact": "css"
+  },
+  "files.associations": {
+    "*.css": "postcss"
+  }
+}
